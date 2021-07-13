@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ToDoListBootcamp</string>
+    <string name="title_home">Task</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Setting</string>
+    <string name="free_to_do_your_plans_anytime_anywhere">Free To Do Your Plans, Anytime, Anywhere</string>
+    <string name="to_do_list">TO DO LIST</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sun_sept_14_2020">Sun, Sept 14 2020</string>
+    <string name="task_list">Task List</string>
+    <string name="new_task">New Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="create_task">Create Task</string>
+    <string name="logout">Logout</string>
+    <string name="detail_task">Detail Task</string>
+    <string name="update_task">Update Task</string>
+    <string name="complete">Complete</string>
+    <string name="delete_task">Delete Task</string>
+</resources>
